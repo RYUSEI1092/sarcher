@@ -1,0 +1,56 @@
+{
+  "resources/images/logo.png": {
+    "file": "assets/logo.659c7c74.png",
+    "src": "resources/images/logo.png"
+  },
+  "resources/images/true.png": {
+    "file": "assets/true.8d52743e.png",
+    "src": "resources/images/true.png"
+  },
+  "resources/images/false.png": {
+    "file": "assets/false.c715f675.png",
+    "src": "resources/images/false.png"
+  },
+  "resources/images/icons/bookshelf.svg": {
+    "file": "assets/bookshelf.7047edc4.svg",
+    "src": "resources/images/icons/bookshelf.svg"
+  },
+  "resources/images/icons/home.svg": {
+    "file": "assets/home.c366d5aa.svg",
+    "src": "resources/images/icons/home.svg"
+  },
+  "resources/images/icons/mypage.svg": {
+    "file": "assets/mypage.a4a71af7.svg",
+    "src": "resources/images/icons/mypage.svg"
+  },
+  "resources/images/icons/search.svg": {
+    "file": "assets/search.d42f81a7.svg",
+    "src": "resources/images/icons/search.svg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.4d69c755.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app.3d200ed4.css"
+    ],
+    "assets": [
+      "assets/bookshelf.7047edc4.svg",
+      "assets/home.c366d5aa.svg",
+      "assets/mypage.a4a71af7.svg",
+      "assets/search.d42f81a7.svg",
+      "assets/logo.659c7c74.png",
+      "assets/true.8d52743e.png",
+      "assets/false.c715f675.png"
+    ]
+  },
+  "resources/js/app.css": {
+    "file": "assets/app.3d200ed4.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app.d3350d42.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}

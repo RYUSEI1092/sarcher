@@ -1,0 +1,26 @@
+// Body
+$body-bg: #ffffff;
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+:root {
+  // color
+  --main-color: rgb(0, 41, 255);
+  --secondary-color: rgb(255, 255, 255);
+  --danger-color: rgb(255, 0, 0);
+
+  // font-size
+  --font-xs: 10px;
+  --font-sm: 12px;
+  --font-md: 14px;
+  --font-lg: 16px;
+  --font-xl: 20px;
+
+  // layout sizes
+  --header-height: 64px;
+  --footer-height: 50px;
+  --footer-line-height: 3px;
+}
